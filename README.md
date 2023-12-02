@@ -23,7 +23,7 @@ The methodology for controversy detection is based on a combination of collabora
   The model did not perform very well and got a Precision of about 56%
 
 ### Article Dataset
-The dataset comprising article revision histories (500 revisions each) is hosted on Google Drive. Access the dataset [here](insert_google_drive_link).
+The dataset comprising article revision histories (500 revisions each) is hosted on Google Drive. Access the dataset [here](https://drive.google.com/drive/folders/1RjhSDN2pE8iTDZQRsECRjZ3w_pjbsGGE?usp=sharing).
 
 ## Repository Structure
 - `/api`: Contains code for interacting with the Wikipedia API and fetching article revision histories.
